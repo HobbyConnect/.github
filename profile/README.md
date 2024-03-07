@@ -25,8 +25,6 @@
 Our Mission is to bring people together! Connect to others with the same Hobbies!
 All this in one APP Bundled for IOS and Android the Easiest way because of React Native and Springboot 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,13 +34,11 @@ All this in one APP Bundled for IOS and Android the Easiest way because of React
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
-## Contact
+## Information
 
 Project Link: [https://github.com/hobbyconnect/](https://github.com/hobbyconnect/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
