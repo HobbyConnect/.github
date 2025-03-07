@@ -21,6 +21,9 @@
 
 <!-- ABOUT THE Projekct -->
 ## About The Project
+<div align="center">
+    <img src="https://github.com/HobbyConnect/hcMobile/blob/main/images/Mockup%20Template.png" alt="Mockup Image" height="700">
+</div>
 
 Our Mission is to bring people together! Connect to others with the same Hobbies!
 All this in one APP Bundled for IOS and Android the Easiest way because of React Native and Springboot 
